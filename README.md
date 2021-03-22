@@ -1,3 +1,3 @@
 # March-Example
 
-This is an example repository to put on GitHub
+This is an example repository we put on GitHub
